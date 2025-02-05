@@ -1,0 +1,7 @@
+#include<stdio.h>
+int main()
+{
+    float a=5.3;
+    float b=2.2;
+    printf("%f\n",a+b);
+}
